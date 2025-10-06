@@ -1,0 +1,39 @@
+{
+  "wasteData": [
+    {
+      "city": "New York",
+      "generated": 12000,
+      "recycled": 4000,
+      "landfilled": 8000
+    },
+    {
+      "city": "Los Angeles",
+      "generated": 9000,
+      "recycled": 3000,
+      "landfilled": 6000
+    },
+    {
+      "city": "Chicago",
+      "generated": 7000,
+      "recycled": 2500,
+      "landfilled": 4500
+    },
+    {
+      "city": "Houston",
+      "generated": 6000,
+      "recycled": 2000,
+      "landfilled": 4000
+    },
+    {
+      "city": "Phoenix",
+      "generated": 5000,
+      "recycled": 1500,
+      "landfilled": 3500
+    }
+  ],
+  "summary": {
+    "totalGenerated": 40000,
+    "totalRecycled": 13000,
+    "recyclingRate": "32.5%"
+  }
+}
